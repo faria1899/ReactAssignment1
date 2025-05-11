@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-function FaceBookIcon(props) {
+function FacebookIcon(props) {
   return (
     <div>
       <svg {...props}>
@@ -19,4 +19,4 @@ function FaceBookIcon(props) {
   )
 }
 
-export default FaceBookIcon
+export default FacebookIcon
